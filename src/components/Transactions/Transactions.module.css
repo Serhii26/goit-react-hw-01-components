@@ -1,0 +1,27 @@
+.transaction {
+  box-shadow: 0px 1px 1px rgb(0 0 0 / 12%), 0px 4px 4px rgb(0 0 0 / 6%),
+    1px 4px 6px rgb(0 0 0 / 16%);
+  border-radius: 4px;
+  margin-bottom: 40px;
+}
+
+.title {
+  width: 200px;
+  background-color: rgb(52, 108, 109);
+  color: #ffffff;
+  padding: 14px;
+  font-weight: 500;
+  font-size: 20px;
+  text-transform: uppercase;
+}
+.info {
+  color: #423b3b;
+  text-align: center;
+  padding: 14px;
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.line {
+  background-color: #e7dbdb;
+}
